@@ -2,7 +2,7 @@
 
 # About
 
-This assignment was completed for ITI1120: Introduction to Computing I, a first year course that introduces students to computer science concepts using Python. The purpose of this assignment was to explore loops, exception handling and the basics of designing a simple program. 
+This assignment was completed for ITI1120: Introduction to Computing I in Fall 2017, a first year course that introduces students to computer science concepts using Python. The purpose of this assignment was to explore loops, exception handling and the basics of designing a simple program. 
 
 This program has 2 options: A math quiz generator for elementary school students and a quadratic equation solver for high school students.
 
